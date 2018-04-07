@@ -1,9 +1,11 @@
 /*
-* @Author: Andy
-* @Date:   2017-12-30 20:15:46
-* @Last Modified by:   Andy
-* @Last Modified time: 2017-12-30 23:17:24
+* @Author: Rosen
+* @Date:   2017-05-09 16:47:03
+* @Last Modified by:   Rosen
+* @Last Modified time: 2017-05-09 16:47:14
 */
+
+'use strict';
 module.exports = {
-	test: 1234
+    test: 1234
 }

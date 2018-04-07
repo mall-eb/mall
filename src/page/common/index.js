@@ -1,7 +1,12 @@
 /*
-* @Author: Andy
-* @Date:   2017-12-30 20:23:34
-* @Last Modified by:   Andy
-* @Last Modified time: 2017-12-30 23:18:16
+* @Author: Rosen
+* @Date:   2017-05-09 16:48:55
+* @Last Modified by:   Rosen
+* @Last Modified time: 2017-05-17 21:20:30
 */
-console.log(' i am global');
+
+'use strict';
+
+require('./layout.css');
+require('node_modules/font-awesome/css/font-awesome.min.css');
+require('./footer/index.css');
